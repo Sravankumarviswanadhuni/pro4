@@ -31,8 +31,8 @@ xmlns="http://maven.apache.org/pom/4.0.0">
                  <sonar.token>
                         sqp_96ba916bf26e0d628931b2195ed90dad8a7b48f2
                  </sonar.token>
-                 <sonar.login>admin</sonar.login>
-                <sonar.password>yesu</sonar.password>
+                 <!--sonar.login>admin</sonar.login>
+                <sonar.password>yesu</sonar.password-->
                 
                                          
             </properties>
